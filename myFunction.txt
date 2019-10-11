@@ -1,3 +1,6 @@
 onefunction - I have added a very important function here.
 twofunction - I have added an another important function here.
 threefunction - I have added unnecessary important function here.
+
+
+This part is added to master. So, this will the part of every branch.
