@@ -1,4 +1,4 @@
-onefunction - I have added a very important function here.
+onefunction - I have added an OK function here.
 twofunction - I have added an another important function here.
 threefunction - I have added unnecessary important function here.
 
@@ -6,3 +6,6 @@ threefunction - I have added unnecessary important function here.
 This part is added to master. So, this will the part of every branch.
 
 This part is added through new_chart branch.
+
+This method is added just to create a conflict.
+Enjoy solving this conflict.
